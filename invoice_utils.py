@@ -7,8 +7,8 @@ import pandas as pd
 import sqlite3
 
 
-EMAIL_USER = 'johantrjohan@gmail.com'
-EMAIL_PASS = 'zedb zjmg qrra xzwv'
+EMAIL_USER = '<Your email address>'
+EMAIL_PASS = '<Your app password>'
 IMAP_SERVER = 'imap.gmail.com'
 DOWNLOAD_DIR = 'attachments'
 EXCEL_FILE = 'invoices.xlsx'
