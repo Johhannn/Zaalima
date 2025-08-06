@@ -1,4 +1,4 @@
-# 🧾 Invoice Automation Tool
+#  Invoice Automation Tool
 
 A Python-based desktop application that automates the process of downloading invoice PDFs from Gmail, extracting key data, and exporting it to Excel and SQLite. Built with `imaplib`, `PyPDF2`, `pandas`, and a responsive `Tkinter` GUI.
 
